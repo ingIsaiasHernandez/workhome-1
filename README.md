@@ -1,5 +1,5 @@
 # workhome-1
-
+*[Título e imagen de portada](#Título-e-imagen-de-portada)SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 *[Crea una app React.]
 *[Guarda este json: https://jsonblob.com/918261686465740800 en un archivo llamado quotes.json.]
 *[Debes crear un componente llamado QuoteBox que esté centrado, el cuál debe mostrar una cita al azar al momento de cargar la aplicación.]

@@ -9,3 +9,4 @@
 <li>You must create a button that when clicked changes the appointment randomly.</li>
 <li>When changing appointments, the color of the background, the letters and the button must also be changed. (they must all be the same color)</li>
 <li>All code must be in English, but you can post comments in Spanish.</li>
+

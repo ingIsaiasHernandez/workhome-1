@@ -37,7 +37,7 @@ const QuoteBox = () => {
             <div className='card-content'>
 
                 <div className='card-letter'>
-                    <UilCommentAltQuestion className="message-icon"/>   
+                    <UilCommentAltQuestion className="message-icon" style={{ color: colors[colorIndex] }}/>   
                     <h3 className='card-text' style={{ color: colors[colorIndex] }}>{comments[index].quote}</h3>
                 </div>
 
